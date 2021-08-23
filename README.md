@@ -32,5 +32,5 @@ You can only play this playlist with a **DRM Widevine supported devices** and **
 Create an issue if you experienced any problem that didn't stated in README.md
 
 ## Credit
-[Thisistyx](https://github.com/thisistyx)
-[mewatch.sg](https://mewatch.sg)
+1. [Thisistyx](https://github.com/thisistyx)
+2. [mewatch.sg](https://mewatch.sg)
