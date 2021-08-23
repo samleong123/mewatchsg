@@ -28,6 +28,11 @@ This playlist contains channel below :
 5. Channel Vasantham 
 6. CNA
 
+## Tokyo 2020 Olympics
+https://raw.githubusercontent.com/samleong123/mewatchsg/main/olympics_tokyo_2020_mewatch_sg.m3u8
+
+This playlist contains Opening Ceremony + Closing Ceremony series from MediaCorp SG.
+
 ## Issue
 You can only play this playlist with a **DRM Widevine supported devices** and **OTT Navigator**.
 
