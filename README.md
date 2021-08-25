@@ -25,6 +25,7 @@ Channel code/number in this playlist, you may and should change it accordingly i
 5. Channel Vasantham : 1001
 6. CNA : 1002
 7. Paralympics CH01 Mediacorp : 1003
+8. Paralympics CH02 Mediacorp : 1004
 
 ## Available Channels
 This playlist contains channel below :
@@ -35,6 +36,7 @@ This playlist contains channel below :
 5. Channel Vasantham 
 6. CNA
 7. Paralympics CH01 Mediacorp
+8. Paralympics CH02 Mediacorp
 
 ## Tokyo 2020 Olympics
 [olympics_tokyo_2020_mewatch_sg.m3u8](https://raw.githubusercontent.com/samleong123/mewatchsg/main/olympics_tokyo_2020_mewatch_sg.m3u8)
