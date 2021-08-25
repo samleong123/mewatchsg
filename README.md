@@ -12,7 +12,7 @@
 
 5. This playlist **isn't geo-restricted** , you can play it with any country IP.
 6. This playlist **isn't affiliated with https://mewatch.sg !**
-7. Paralympics CH01 Mediacorp added!
+7. Paralympics CH01 + CH02 Mediacorp added!
 
 ## EPG
 This playlist doesn't contain any EPG, you need to find yourself.
