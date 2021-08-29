@@ -3,12 +3,12 @@
 
 ## Before you use this playlist
 1. This playlist require **DRM Widevine supported devices** and **OTT Navigator for Widevine Key + Key ID version** to play it.
-2. This [Widevine Key + Key ID](https://github.com/samleong123/mewatchsg/blob/main/mewatchsg_drm_wv_key.m3u8) playlist is **based on Widevine Key ID + Key exploit**, so license URL doesn't needed in this cases.
+2. This [Widevine Key + Key ID](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_key.m3u8) playlist is **based on Widevine Key ID + Key exploit**, so license URL doesn't needed in this cases.
 3. This playlist have two different version.
 
-[Widevine Key + Key ID](https://github.com/samleong123/mewatchsg/blob/main/mewatchsg_drm_wv_key.m3u8) : **May not working once Google revoke the Widevine CDM version that contains exploit** or **Mediacorp re-encrypt it with different Widevine Key ID + Key.**
+[Widevine Key + Key ID](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_key.m3u8) : **May not working once Google revoke the Widevine CDM version that contains exploit** or **Mediacorp re-encrypt it with different Widevine Key ID + Key.**
 
-[Widevine URL](https://github.com/samleong123/mewatchsg/blob/main/mewatchsg_drm_wv_url.m3u8) : **May not working once Mediacorp change the license url.**
+[Widevine URL](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_url.m3u8) : **May not working once Mediacorp change the license url.**
 
 5. This playlist **isn't geo-restricted** , you can play it with any country IP.
 6. This playlist **isn't affiliated with https://mewatch.sg !**
@@ -39,13 +39,13 @@ This playlist contains channel below :
 8. Paralympics CH02 Mediacorp
 
 ## Tokyo 2020 Olympics
-[olympics_tokyo_2020_mewatch_sg.m3u8](https://raw.githubusercontent.com/samleong123/mewatchsg/main/olympics_tokyo_2020_mewatch_sg.m3u8)
+[olympics_tokyo_2020_mewatch_sg.m3u8](https://mewatchsg.samsam123.tk/olympics_tokyo_2020_mewatch_sg.m3u8)
 
 This playlist contains Opening Ceremony + Closing Ceremony series from MediaCorp SG.
 
 ## Issue
 You can only play this playlist with a **DRM Widevine supported devices** and **OTT Navigator for Widevine Key + Key ID version**.
-You may use any of the player below to play [Widevine URL](https://github.com/samleong123/mewatchsg/blob/main/mewatchsg_drm_wv_url.m3u8) version.
+You may use any of the player below to play [Widevine URL](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_url.m3u8) version.
 1. Tivimate
 2. OTT Navigator
 3. TVirl
