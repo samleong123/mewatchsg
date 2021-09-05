@@ -12,7 +12,6 @@
 
 5. This playlist **isn't geo-restricted** , you can play it with any country IP.
 6. This playlist **isn't affiliated with https://mewatch.sg !**
-7. Paralympics CH01 + CH02 Mediacorp added!
 
 ## EPG
 This playlist doesn't contain any EPG, you need to find yourself.
@@ -24,8 +23,6 @@ Channel code/number in this playlist, you may and should change it accordingly i
 4. Channel Suria : 1000
 5. Channel Vasantham : 1001
 6. CNA : 1002
-7. Paralympics CH01 Mediacorp : 1003
-8. Paralympics CH02 Mediacorp : 1004
 
 ## Available Channels
 This playlist contains channel below :
@@ -35,8 +32,6 @@ This playlist contains channel below :
 4. Channel Suria 
 5. Channel Vasantham 
 6. CNA
-7. Paralympics CH01 Mediacorp
-8. Paralympics CH02 Mediacorp
 
 ## Tokyo 2020 Olympics
 [olympics_tokyo_2020_mewatch_sg.m3u8](https://mewatchsg.samsam123.tk/olympics_tokyo_2020_mewatch_sg.m3u8)
