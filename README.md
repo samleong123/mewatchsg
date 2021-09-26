@@ -23,6 +23,11 @@ Channel code/number in this playlist, you may and should change it accordingly i
 4. Channel Suria : 1000
 5. Channel Vasantham : 1001
 6. CNA : 1002
+7. oktolidays : 1003
+8. Global Citizen : 1004
+9. EGG Network : 1005
+10. meWATCH LIVE 1 : 1006
+11. meWATCH LIVE 2 : 1007
 
 ## Available Channels
 This playlist contains channel below :
@@ -32,6 +37,11 @@ This playlist contains channel below :
 4. Channel Suria 
 5. Channel Vasantham 
 6. CNA
+7. oktolidays
+8. Global Citizen
+9. EGG Network
+10. meWATCH LIVE 1 
+11. meWATCH LIVE 2
 
 ## Tokyo 2020 Olympics
 [olympics_tokyo_2020_mewatch_sg.m3u8](https://mewatchsg.samsam123.tk/olympics_tokyo_2020_mewatch_sg.m3u8)
