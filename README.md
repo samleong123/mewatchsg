@@ -15,7 +15,7 @@
 
 ## Web Player
 1. You can watch your favourite channel from meWATCH on https://mewatchsg.samsam123.tk/web-player
-2. This web player only supports Google Chrome on Windows / Android / macOS. iOS and iPadOS isn't supported!
+2. This web player only supports Google Chrome / Microsoft Edge (Chromium) on Windows / Android / macOS. iOS and iPadOS isn't supported!
 
 ## EPG
 This playlist doesn't contain any EPG, you need to find yourself.
