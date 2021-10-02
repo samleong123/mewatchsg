@@ -14,7 +14,7 @@
 6. This playlist **isn't affiliated with https://mewatch.sg !**
 
 ## Web Player
-1. You can watch your favourite channel from meWATCH on https://mewatchsg.samsam123.tk/web-player
+1. You can watch your favourite channel from meWATCH on [https://mewatchsg.samsam123.tk/web-player](https://mewatchsg.samsam123.tk/web-player)
 2. This web player only supports Google Chrome / Microsoft Edge (Chromium) on Windows / Android / macOS. iOS and iPadOS isn't supported!
 
 ## EPG
