@@ -4,7 +4,7 @@
 ## Before you use this playlist
 1. This playlist require supported IPTV Players to play it.
 2. This [Widevine Key + Key ID](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_key.m3u8) playlist is **based on Widevine Key ID + Key exploit**, so license URL doesn't needed in this cases.
-3. Since Tivimate 4.0.0 supports Clearkey and thanks to someone pointed out for the Clearkey URL format, i wrote a tool that can [convert Clearkey from Hex string to Base64 and output the JSON format that same as Clearkey License URL](https://github.com/samleong123/heroku-clearkey-hex-base64-json) , the Widevine URL version was removed from this repo.
+3. Since Tivimate 4.0.0 supports Clearkey and thanks to [AqFad2811](https://github.com/AqFad2811) pointed out for the Clearkey URL format, i wrote a tool that can [convert Clearkey from Hex string to Base64 and output the JSON format that same as Clearkey License URL](https://github.com/samleong123/heroku-clearkey-hex-base64-json) , the Widevine URL version was removed from this repo.
 
 [Widevine Key + Key ID](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_key.m3u8) : **May not working once Google revoke the Widevine CDM version that contains exploit** or **Mediacorp re-encrypt it with different Widevine Key ID + Key.**
 
@@ -61,4 +61,5 @@ Create an issue if you experienced any problem that didn't stated in README.md
 ## Credit
 1. [Thisistyx](https://github.com/thisistyx)
 2. [mewatch.sg](https://mewatch.sg)
-3. [Clearkey Hex to Base64 Converter](https://github.com/samleong123/heroku-clearkey-hex-base64-json)
+3. [AqFad2811](https://github.com/AqFad2811)
+4. [Clearkey Hex to Base64 Converter](https://github.com/samleong123/heroku-clearkey-hex-base64-json)
