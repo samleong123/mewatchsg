@@ -2,13 +2,11 @@
 # mewatch.sg
 
 ## Before you use this playlist
-1. This playlist require **DRM Widevine supported devices** and **OTT Navigator for Widevine Key + Key ID version** to play it.
+1. This playlist require supported IPTV Players to play it.
 2. This [Widevine Key + Key ID](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_key.m3u8) playlist is **based on Widevine Key ID + Key exploit**, so license URL doesn't needed in this cases.
-3. This playlist have two different version.
+3. Since Tivimate 4.0.0 supports Clearkey and thanks to someone pointed out for the Clearkey URL format, i wrote a tool that can [convert Clearkey from Hex string to Base64 and output the JSON format that same as Clearkey License URL](https://github.com/samleong123/heroku-clearkey-hex-base64-json) , the Widevine URL version was removed from this repo.
 
 [Widevine Key + Key ID](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_key.m3u8) : **May not working once Google revoke the Widevine CDM version that contains exploit** or **Mediacorp re-encrypt it with different Widevine Key ID + Key.**
-
-[Widevine URL](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_url.m3u8) : **May not working once Mediacorp change the license url.**
 
 5. This playlist **isn't geo-restricted** , you can play it with any country IP.
 6. This playlist **isn't affiliated with https://mewatch.sg !**
@@ -53,14 +51,14 @@ This playlist contains channel below :
 This playlist contains Opening Ceremony + Closing Ceremony series from MediaCorp SG.
 
 ## Issue
-You can only play this playlist with a **DRM Widevine supported devices** and **OTT Navigator for Widevine Key + Key ID version**.
-You may use any of the player below to play [Widevine URL](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_url.m3u8) version.
-1. Tivimate
-2. OTT Navigator
-3. TVirl
+You may use any of the player below to play [Widevine Key + Key ID](https://mewatchsg.samsam123.tk/mewatchsg_drm_wv_key.m3u8) version.
+1. Tivimate 4.0.0
+2. OTT Navigator (Should work) 
+3. Create an issue if you found out another IPTV Players work!
 
 Create an issue if you experienced any problem that didn't stated in README.md
 
 ## Credit
 1. [Thisistyx](https://github.com/thisistyx)
 2. [mewatch.sg](https://mewatch.sg)
+3. [Clearkey Hex to Base64 Converter](https://github.com/samleong123/heroku-clearkey-hex-base64-json)
