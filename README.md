@@ -49,6 +49,10 @@
 5. Channel Vasantham 
 6. CNA
 
+## Beijing 2022 Olympics
+Watch it via [Widevine URL](https://mewatchsg.samsam123.name.my/mewatchsg_drm_wv_url.m3u8) or [Web Player for Beijing 2022](https://mewatchsg.samsam123.name.my/beijing2022). <br>
+Web player only work for Windows / Android / macOS with Chrome / Edge or Widevine supported browser
+
 ## Tokyo 2020 Olympics
 [olympics_tokyo_2020_mewatch_sg.m3u8](https://mewatchsg.samsam123.name.my/olympics_tokyo_2020_mewatch_sg.m3u8)
 
