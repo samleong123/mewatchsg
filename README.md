@@ -30,6 +30,8 @@
 4. Channel Suria 
 5. Channel Vasantham 
 6. CNA
+7. oktolidays [Without EPG]
+8. eGG Network [Without EPG]
 
 
 ## Tokyo 2020 Olympics
