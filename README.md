@@ -18,7 +18,7 @@
 3. This web player is based on clearkey decryption and this web player is same with [Widevine Key + Key ID](https://mewatchsg.samsam123.name.my/mewatchsg_drm_wv_key.m3u8) playlist , any issue regarding this web player won't be resolved and will be closed.
 
 ## EPG
-[Widevine URL](https://mewatchsg.samsam123.name.my/mewatchsg_drm_wv_url.m3u8) version containing Singapore EPG from [AqFad2811](https://github.com/AqFad2811).
+From [iptv-org/epg/guides/sg/mewatch.sg.epg.xml](https://github.com/iptv-org/epg/blob/gh-pages/guides/sg/mewatch.sg.epg.xml)
 
 ## Available Channels
 [Widevine Key + Key ID](https://mewatchsg.samsam123.name.my/mewatchsg_drm_wv_key.m3u8) : **Deprecated**
@@ -30,8 +30,8 @@
 4. Channel Suria 
 5. Channel Vasantham 
 6. CNA
-7. oktolidays [Without EPG]
-8. eGG Network [Without EPG]
+7. oktolidays 
+8. eGG Network 
 
 
 ## Tokyo 2020 Olympics
@@ -54,4 +54,5 @@ Create an issue if you experienced any problem that didn't stated in README.md
 1. [weareblahs](https://github.com/weareblahs)
 2. [mewatch.sg](https://mewatch.sg)
 3. [AqFad2811](https://github.com/AqFad2811)
+4. [iptv-org](https://github.com/iptv-org)
 
