@@ -18,7 +18,7 @@
 3. This web player is based on clearkey decryption and this web player is same with [Widevine Key + Key ID](https://mewatchsg.samsam123.name.my/mewatchsg_drm_wv_key.m3u8) playlist , any issue regarding this web player won't be resolved and will be closed.
 
 ## EPG
-From [iptv-org/epg/guides/sg/mewatch.sg.epg.xml](https://github.com/iptv-org/epg/blob/gh-pages/guides/sg/mewatch.sg.epg.xml)
+From [AqFad2811/epg/singapore.xml](https://github.com/AqFad2811/epg/blob/main/singapore.xml)
 
 ## Available Channels
 [Widevine Key + Key ID](https://mewatchsg.samsam123.name.my/mewatchsg_drm_wv_key.m3u8) : **Deprecated**
