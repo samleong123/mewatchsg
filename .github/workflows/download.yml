@@ -3,7 +3,7 @@ name: Retrieve meWatch Channel(s) manifest with DRM Widevine URL
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/24 * * *'
+    - cron: '0 0/12 * * *'
     
   pull_request:
     branches:
