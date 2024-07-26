@@ -31,13 +31,10 @@ From [AqFad2811/epg/singapore.xml](https://github.com/AqFad2811/epg/blob/main/si
 5. Channel Vasantham 
 6. CNA
 7. oktolidays 
-8. eGG Network 
 
 
-## Tokyo 2020 Olympics
-[olympics_tokyo_2020_mewatch_sg.m3u8](https://mewatchsg.samsam123.name.my/olympics_tokyo_2020_mewatch_sg.m3u8)
-
-This playlist contains Opening Ceremony + Closing Ceremony series from MediaCorp SG.
+## Paris 2024 Olympics
+18 Paris 2024 Olympics has been added into the [Widevine URL](https://mewatchsg.samsam123.name.my/mewatchsg_drm_wv_url.m3u8)
 
 ## Issue
 You may use any of the IPTV player that support Widevine URL to play [Widevine URL](https://mewatchsg.samsam123.name.my/mewatchsg_drm_wv_url.m3u8) playlist.
